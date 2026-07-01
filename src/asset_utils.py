@@ -7,7 +7,7 @@ from typing import Dict
 import cv2
 import numpy as np
 
-from .config import ASSET_DIR
+from config import ASSET_DIR
 
 ASSET_VERSION = "3"
 
